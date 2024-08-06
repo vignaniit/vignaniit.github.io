@@ -5,5 +5,8 @@
 - Straight to point
 - Easy to make changes to
 
-### Is it there yet? 
+### Are we there yet? 
 No
+
+### File Structure
+We are using jekyll for our static site generation.
