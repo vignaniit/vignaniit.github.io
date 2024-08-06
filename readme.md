@@ -1,3 +1,3 @@
-#VignanIIT
+# VignanIIT
 
-The Community
+The Community Website
