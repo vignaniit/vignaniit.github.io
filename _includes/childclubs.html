@@ -1,0 +1,25 @@
+<section class="w-full py-12 md:py-24 lg:py-32" id="childclubs">
+    <div class="container space-y-12 px-4 md:px-6">
+      <div class="flex flex-col items-center justify-center space-y-4 text-center">
+        <div class="space-y-2">
+          <div class="inline-block rounded-lg bg-[#ccc] px-3 py-1 text-sm text-[#333] font-bold">Child Clubs</div>
+          <h2 class="text-3xl font-bold tracking-tighter sm:text-5xl">Explore Our Child Clubs</h2>
+          <p class="max-w-[900px] text-[#ccc] md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
+            Our club has several child clubs that cater to different interests and passions. Check them out and
+            get involved!
+          </p>
+        </div>
+      </div>
+      <div class="mx-auto grid items-start gap-8 sm:max-w-4xl sm:grid-cols-2 md:gap-12 lg:max-w-5xl lg:grid-cols-3">
+        {% include childclubcard.html
+          name = "programming"
+          description = "organisation on github"
+          link = "github"
+        %}
+        {% include childclubcard.html
+          name = "chess"
+          description = "chess club on chess.com"
+          link = "chess"
+        %}
+    </div>
+  </section>
