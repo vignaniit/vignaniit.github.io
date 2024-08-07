@@ -22,7 +22,7 @@ No
 ### File Structure
 We are using jekyll for our static site generation.
 
-#### _includes
+#### [_includes](https://github.com/vignaniit/vignaniit.github.io/tree/development/_includes)
 This is where all the small components lie.
 
 These small components can then be called anywhere around the website.
