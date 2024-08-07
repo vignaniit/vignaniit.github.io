@@ -7,9 +7,9 @@ This branch is the default repository branch.
 Any changes made to the codebase shall first be merged here.
 
 ### 2. production
-This is the Production branch, 
+This is the production branch.
 
-That is the [live site](https://vignaniit.github.io) is using this as its source.
+That is, the [live site](https://vignaniit.github.io) is using this as its source.
 
 ### The Ideal way we want it to be
 - No fancy animations
